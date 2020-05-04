@@ -1,5 +1,3 @@
 Halo nama saya Andi Fachriansyah Dwipangga. Resolusi saya di tahun 2020 sebagai berikut :
 - Bisa membuat website online store
-- Mengetahui basic dari git dan github
-- Mengerti mengenai flexbox
-- Mengerti mengeani CS Grid
+- Membuat responsive navbar
