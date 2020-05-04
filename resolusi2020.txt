@@ -1,3 +1,5 @@
 Halo nama saya Andi Fachriansyah Dwipangga. Resolusi saya di tahun 2020 sebagai berikut :
 - Bisa membuat website online store
 - Membuat responsive navbar
+  ^ Membuat websitenya online
+  ^ Manage agar websitenya tetap berjalan dengan lancar
